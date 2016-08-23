@@ -1,0 +1,32 @@
+body {
+    background: url("https://www.1hotels.com/thefieldguide/wp-content/uploads/bbp.jpg");
+    text-align: center;
+    background-image: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 500px;
+    color: #FFFFFF;
+    font-family: helvetica;
+    margin: 0px auto;
+    font-size: 18px;
+}
+
+
+img {
+    height: 205px;
+    width: 205px;
+    border-radius: 50%;
+    border: 7px solid white;
+    margin-top: 90px;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"]{
+	background: blue;
+	color: #FFFFFF;
+}
